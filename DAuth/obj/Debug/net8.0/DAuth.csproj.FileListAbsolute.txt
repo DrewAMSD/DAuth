@@ -1,0 +1,14 @@
+/home/drewam/Desktop/Projects/DAuth/DAuth/bin/Debug/net8.0/DAuth
+/home/drewam/Desktop/Projects/DAuth/DAuth/bin/Debug/net8.0/DAuth.deps.json
+/home/drewam/Desktop/Projects/DAuth/DAuth/bin/Debug/net8.0/DAuth.runtimeconfig.json
+/home/drewam/Desktop/Projects/DAuth/DAuth/bin/Debug/net8.0/DAuth.dll
+/home/drewam/Desktop/Projects/DAuth/DAuth/bin/Debug/net8.0/DAuth.pdb
+/home/drewam/Desktop/Projects/DAuth/DAuth/obj/Debug/net8.0/DAuth.GeneratedMSBuildEditorConfig.editorconfig
+/home/drewam/Desktop/Projects/DAuth/DAuth/obj/Debug/net8.0/DAuth.AssemblyInfoInputs.cache
+/home/drewam/Desktop/Projects/DAuth/DAuth/obj/Debug/net8.0/DAuth.AssemblyInfo.cs
+/home/drewam/Desktop/Projects/DAuth/DAuth/obj/Debug/net8.0/DAuth.csproj.CoreCompileInputs.cache
+/home/drewam/Desktop/Projects/DAuth/DAuth/obj/Debug/net8.0/DAuth.dll
+/home/drewam/Desktop/Projects/DAuth/DAuth/obj/Debug/net8.0/refint/DAuth.dll
+/home/drewam/Desktop/Projects/DAuth/DAuth/obj/Debug/net8.0/DAuth.pdb
+/home/drewam/Desktop/Projects/DAuth/DAuth/obj/Debug/net8.0/DAuth.genruntimeconfig.cache
+/home/drewam/Desktop/Projects/DAuth/DAuth/obj/Debug/net8.0/ref/DAuth.dll
